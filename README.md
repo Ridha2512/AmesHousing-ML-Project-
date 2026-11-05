@@ -41,6 +41,6 @@ This project demonstrates the application of Linear Regression to predict reside
 
 ---
 
-# Author: Fathima Ridha 
+Author: Fathima Ridha 
 
-# AmesHousing-ML-Project-
+AmesHousing-ML-Project-
